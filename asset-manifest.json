@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cookies-for-boredom/static/css/main.5221f9a3.chunk.css",
+    "main.js": "/cookies-for-boredom/static/js/main.5142823e.chunk.js",
+    "main.js.map": "/cookies-for-boredom/static/js/main.5142823e.chunk.js.map",
+    "runtime-main.js": "/cookies-for-boredom/static/js/runtime-main.af0aa072.js",
+    "runtime-main.js.map": "/cookies-for-boredom/static/js/runtime-main.af0aa072.js.map",
+    "static/js/2.94e69927.chunk.js": "/cookies-for-boredom/static/js/2.94e69927.chunk.js",
+    "static/js/2.94e69927.chunk.js.map": "/cookies-for-boredom/static/js/2.94e69927.chunk.js.map",
+    "index.html": "/cookies-for-boredom/index.html",
+    "precache-manifest.28c33bc220d0491fa3097db6a3d7db2b.js": "/cookies-for-boredom/precache-manifest.28c33bc220d0491fa3097db6a3d7db2b.js",
+    "service-worker.js": "/cookies-for-boredom/service-worker.js",
+    "static/css/main.5221f9a3.chunk.css.map": "/cookies-for-boredom/static/css/main.5221f9a3.chunk.css.map",
+    "static/js/2.94e69927.chunk.js.LICENSE.txt": "/cookies-for-boredom/static/js/2.94e69927.chunk.js.LICENSE.txt",
+    "static/media/cookie.png": "/cookies-for-boredom/static/media/cookie.afe3625b.png",
+    "static/media/cookie_jar.png": "/cookies-for-boredom/static/media/cookie_jar.47fa68e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af0aa072.js",
+    "static/js/2.94e69927.chunk.js",
+    "static/css/main.5221f9a3.chunk.css",
+    "static/js/main.5142823e.chunk.js"
+  ]
+}
